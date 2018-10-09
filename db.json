@@ -1,4 +1,6 @@
 [
+  {"users":
+   [
   {
     "name": "John Smith",
     "id": 1
@@ -10,5 +12,7 @@
   {
     "name": "Lisa Williams",
     "id": 3
+  }
+]
   }
 ]
