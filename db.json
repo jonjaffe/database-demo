@@ -1,15 +1,15 @@
 {"users":
    [
   {
-    "name": "John Smith",
+    "name": "Engineering",
     "id": 1
   },
   {
-    "name": "Amy Jones",
+    "name": "Marketing",
     "id": 2
   },
   {
-    "name": "Lisa Williams",
+    "name": "Sales",
     "id": 3
   }
 ]
